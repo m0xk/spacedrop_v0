@@ -1,0 +1,1 @@
+/Users/cyrii/Documents/targeted-airdrop-master_3/target/bpfel-unknown-unknown/release/airdrop.so: /Users/cyrii/Documents/targeted-airdrop-master_3/programs/airdrop/src/data.rs /Users/cyrii/Documents/targeted-airdrop-master_3/programs/airdrop/src/lib.rs

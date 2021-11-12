@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/cyrii/Documents/targeted-airdrop-master_3/target/release/build/typenum-f9e3534a7677909f/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/cyrii/Documents/targeted-airdrop-master_3/target/release/build/typenum-f9e3534a7677909f/out/op.rs
