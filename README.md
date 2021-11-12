@@ -30,4 +30,3 @@ spec_0 creates the program authority account
 
 spec_3 tests address eligibility and claim
 
-This app uses the phantom wallet and is using solana devnet
