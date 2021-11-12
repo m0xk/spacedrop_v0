@@ -3,13 +3,11 @@
 
 This repo is already setup for use (The user will be requested to create associated token account (in this example this is paid for by us but the user will pay for this to eliminate this security risk)
 
-yarn install
-
-yarn start
-
 anchor build
 
 anchor deploy --provider.cluster devnet
+
+yarn install
 
 ts-mocha airdrop_0.spec.ts --timeout 10000
 
